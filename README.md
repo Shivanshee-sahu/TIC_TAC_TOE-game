@@ -1,2 +1,8 @@
-# TIC_TAC_TOE-game
-This project is a simple implementation of the classic Tic Tac Toe game built using React. It allows two players to take turns marking spaces on a 3x3 grid until one player wins by getting three of their marks in a row, column, or diagonal, or until the grid is full, resulting in a draw.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
